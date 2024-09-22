@@ -601,7 +601,11 @@ main { overflow-x: hidden; }
   margin-inline: auto;
   margin-bottom: 80px;
   padding-top: 2rem;
-  margin-left: 60px;
+  padding-right: 60px;
+  position: relative;
+  max-width: 500px;
+  width: 125%;
+  margin-bottom: 30px;
 }
 .about-banner .blob {
   position: relative;
