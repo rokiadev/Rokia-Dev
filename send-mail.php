@@ -68,6 +68,6 @@ try {
 }
 else {
     # code...
-    header('location: index.php');
+    header('location: index.html');
     exit(0);
 }
